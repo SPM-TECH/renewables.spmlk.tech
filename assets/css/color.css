@@ -314,7 +314,8 @@
 }
 
 .service-block-three .inner-box .image-box{
-	background: #6a36ff;
+	/* background: #6a36ff; */
+	background: #00d0f5;
 }
 
 .service-block-three .inner-box .icon-box{
@@ -406,7 +407,8 @@
 }
 
 .sec-title-four h6{
-	color: #612ade;
+	color: #141417;
+	/* color: #612ade; */
 }
 
 .service-block-four .inner-box h4 a:hover{
@@ -3075,7 +3077,8 @@
 }
 
 .info-block-one .inner-box .icon-box{
-	color: #e25712;
+	/* color: #e25712; */
+	color:#00d0f5;
 }
 
 .info-block-one .inner-box p a:hover{
@@ -3114,7 +3117,8 @@
 .contact-five .theme-btn,
 .contact-six .theme-btn,
 .contact-seven .theme-btn{
-	background: #e25712;
+	/* background: #e25712; */
+	background:#00d0f5;
 }
 
 .info-block-two .inner-box .info li a:hover{
@@ -3126,7 +3130,8 @@
 }
 
 .contactinfo-one.contact-page-4 .info-block-one .inner-box:hover .icon-box{
-  color: #e25712;
+  /* color: #e25712; */
+  color:#00d0f5;
 }
 
 .contact-six #contact-form .form-group input:focus,

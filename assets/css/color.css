@@ -63,7 +63,7 @@
 }
 
 .list-style-one li:before{
-	background: -webkit-linear-gradient(45deg, #bd1ec7, #f92542 100%);
+	background: -webkit-linear-gradient(45deg, #00d0f5, #41a0ea 100%);
 }
 
 .service-block-one .inner-box h4 a:hover{

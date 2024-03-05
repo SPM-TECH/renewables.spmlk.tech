@@ -953,7 +953,9 @@ img {
 .sec-title h2{
   line-height: 52px;
 }
-
+.sec-title h1{
+  line-height: 52px;
+}
 .sec-title-two span{
   color: #fff;
   border-radius: 30px;

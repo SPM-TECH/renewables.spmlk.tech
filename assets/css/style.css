@@ -8557,6 +8557,11 @@
    animation: zoom-fade-two 8s infinite linear;
  }
 
+ .icon-4 {
+   position: relative;
+   margin-left: 8px;
+   top: 2px;
+ }
 
  /** domain-field **/
 
@@ -8743,6 +8748,7 @@
  }
 
  .content_block_15 .content-box .sec-title h6,
+ .content_block_15 .content-box .sec-title h1,
  .content_block_15 .content-box .sec-title h2 {
    color: #fff;
  }
@@ -15144,7 +15150,7 @@
    background: -webkit-linear-gradient(0deg, #237ecd, #051b88 100%);
  }
 
- .banner-five .content-box h2,
+ .banner-five .content-box h1,
  .banner-five .content-box p {
    color: #fff;
  }

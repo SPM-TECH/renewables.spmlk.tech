@@ -933,6 +933,7 @@ img {
   box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.10);
   padding: 6px 37px;
   text-transform: uppercase;
+  color:#fff
 }
 
 .sec-title .sub-title:before{

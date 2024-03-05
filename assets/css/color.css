@@ -58,6 +58,10 @@
 	background: -webkit-linear-gradient(45deg, #c335da, #fc2643 100%);
 }
 
+.c_color{
+	background: -webkit-linear-gradient(45deg, #00d0f5, #41a0ea 100%);
+}
+
 .image_block_one .image-box .video-inner .video-btn a{
 	color: #c2152f;
 }
@@ -1940,19 +1944,20 @@
 }
 
 .service-block-12 .inner-box .icon-box{
-  background: #17be74;
+  background: #10a1d4;
 }
 
 .service-block-12 .inner-box .lower-content .link a:hover{
-	color: #17be74;
+	color: #10a1d4;
 }
 
 .service-block-12 .inner-box .image-box{
-	background: #17be74;
+	/* background: #17be74; */
+	background: #000;
 }
 
 .service-block-12 .inner-box .lower-content h3 a:hover{
-	color: #17be74;
+	color: #10a1d4;
 }
 
 .chooseus-11 .inner-box .single-item .icon-box .icon{
@@ -3198,12 +3203,12 @@
 }
 
 .project-details .carousel-outer .owl-nav button:hover{
-  background: #e25712;
-  border-color: #e25712;
+  background: #00d0f5;
+  border-color: #00d0f5;
 }
 
 .project-details .nav-btn .single-btn a:hover{
-	color: #e25712;
+	color: #00d0f5;
 }
 
 .project-details-4 .porject-info .info-list .single-item p a:hover{
@@ -3378,7 +3383,7 @@
 }
 
 .blog-sidebar .post-widget .post h5 a:hover{
-	color: #e35712;
+	color: #00d0f5;
 }
 
 .blog-sidebar .archives-widget .archives-list li a:hover{
@@ -3477,7 +3482,7 @@
 }
 
 .blog-details-content .nav-btn .single-btn h6 a:hover{
-	color: #e35712;
+	color: #00d0f5;
 }
 
 .blog-details-content .comments-form-area .form-group input:focus,

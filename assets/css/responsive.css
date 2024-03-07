@@ -526,6 +526,7 @@
   .menu-area .mobile-nav-toggler {
     display: block;
     padding: 10px;
+    padding-left: 100px;
   }
 
   .megamenu ul li:first-child{
@@ -1596,6 +1597,26 @@
 
 @media only screen and (max-width: 767px){
 
+  .service-four {
+    padding-top: 50px;
+  }
+
+  .service-three {
+    padding-top: 50px;
+    padding-bottom: 10px;
+  }
+
+  .contactinfo-one.contact-page-4 {
+    padding-top: 0px;
+  }
+
+  .footer-13 {
+    padding-top: 30px;
+  }
+  .banner-five .image-box img{
+   display: none;
+}
+
   .main-header .outer-box{
     padding: 0px 15px;
   }
@@ -2328,10 +2349,6 @@
     padding: 65px 0px 40px 0px;
   }
 
-  .footer-13{
-    padding-top: 0px;
-  }
-
   .banner-four .image-box{
     margin: 0px;
   }
@@ -2858,7 +2875,7 @@
   .registration-section,
   .error-section,
   .contact-five{
-    padding: 70px 0px;
+    padding: 50px 0px;
   }
 
   .pricing-one.pricing-page-1,
@@ -3609,7 +3626,7 @@
   }
 
   .content_block_nine .content-box{
-    padding-top: 70px;
+    padding-top: 0px;
   }
 
   .header-style-ten .nav-right .nav-btn{

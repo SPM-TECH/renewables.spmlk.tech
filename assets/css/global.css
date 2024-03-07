@@ -632,7 +632,7 @@ img {
 .theme-btn-four{
   border-radius: 30px;
   /* background: #6a36ff; */
-  background: #00d0f5;
+  background: #11b26e;
 }
 
 .theme-btn-four:before{
@@ -659,7 +659,7 @@ img {
 /** theme-btn-five **/
 
 .theme-btn-five{
-  background: #00d0f5;
+  background: #11b26e;
   /* background: #612ade; */
   padding: 17px 40px;
 }
